@@ -18,7 +18,7 @@ you must have cuda
 1. git clone
 2. download pre_weight from [here](https://soongsilac-my.sharepoint.com/:u:/g/personal/phs008_soongsil_ac_kr/ERE4KfrXD3RBknZ9dFGcOYUBka5t5Kr1wf5SrRRp8mlSXg?e=xMqrE5)
 3. mkdir Thirdparty
-4. cd Thirdparth
+4. cd Thirdparty
 5. download libtorch version which you want [libtorch 1.3.0](https://soongsilac-my.sharepoint.com/:u:/g/personal/phs008_soongsil_ac_kr/EdtuAaBaY6pFsjHjxM27YYIBeIov7aDFRI8Bx-D86lU9Ig?e=5a73oS) , [libtorch 1.8.1](https://soongsilac-my.sharepoint.com/:u:/g/personal/phs008_soongsil_ac_kr/EVWhU-_p2RZHsJKnVVjaWYQBO0Q-P3SydZesHypPyxXD0w?e=pVgnqN)
 6. unzip 
 7. cd ..
