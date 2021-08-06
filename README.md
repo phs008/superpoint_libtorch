@@ -30,6 +30,11 @@ you must have cuda
 ## use your images
 use sample folder
 
+## sample
+![sample](https://user-images.githubusercontent.com/17635409/128466926-3afb7bfb-265f-4f60-aa36-3daeac1c0434.gif)
+
+Geforce RTX 2070 , 2 image , avg 250 ms~300 ms (torch 1.8.1)
+
 ## reference
 - https://github.com/magicleap/SuperPointPretrainedNetwork
 - https://github.com/KinglittleQ/SuperPoint_SLAM
