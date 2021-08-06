@@ -1,0 +1,17 @@
+<package>
+  <description brief="SuperPoint_cplus14_ROS">
+
+    SuperPoint_cplus14_ROS
+
+  </description>
+  <depend package="roscpp"/>
+  <depend package="tf"/>
+  <depend package="sensor_msgs"/>
+  <depend package="image_transport"/>
+  <depend package="cv_bridge"/>
+
+
+</package>
+
+
+
